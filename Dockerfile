@@ -1,4 +1,4 @@
-FROM shippableimages/ubuntu1404_base:0.0.1
+FROM shippableimages/ubuntu1404_base:latest
 
 
 # http://bugs.python.org/issue19846
