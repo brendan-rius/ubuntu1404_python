@@ -23,6 +23,7 @@ python:
   - 2.7
   - 3.3
   - 3.4
+  - 3.5
 
 build_image: shippableimages/ubuntu1404_python
 
