@@ -11,6 +11,8 @@ RUN apt-get update && apt-get install -y \
     python3.3 \
     python3.3-dev \
     python3.4 \
-    python3.4-dev;
+    python3.4-dev \
+    python3.5 \
+    python3.5-dev ;
 
 CMD ["python"]
